@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/building3.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Bad Danger Movies
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,17 +16,19 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
+sub_heading: Finding Good Things to Throw in the Gorge
+textline: |-
+  Oooh Yeah
+
   Ora et Labora
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
