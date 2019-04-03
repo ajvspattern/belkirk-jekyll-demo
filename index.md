@@ -21,6 +21,8 @@ textline: |-
   Oooh Yeah
 
   Ora et Labora
+
+  Are you a man about town?
 hero_button:
   text: Learn more
   href: "/about"
